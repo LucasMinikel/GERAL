@@ -1,0 +1,23 @@
+https://git-scm.com/download/win
+
+https://desktop.github.com/
+Login
+
+https://flutter.dev/docs/get-started/install
+Extrair em diretorio direto do disco C
+Executar .bat
+flutter --version
+emv	Path(editar) ADD: ;full path to bin
+flutter doctor
+
+https://developer.android.com/studio
+Configurar
+Ferramentas
+Plugins
+Flutter
+
+Install virtual android
+
+Android fisico
+Enable Develeper mode
+Enable USB Debugging
